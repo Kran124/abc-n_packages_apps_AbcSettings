@@ -28,9 +28,9 @@
             android:title="@string/navigationbar_settings_title" />
 			
 		<PreferenceScreen
-            android:fragment="com.pure.settings.fragments.ButtonsSettings"
-            android:key="pure_buttons_settings"
-            android:title="@string/pure_buttons"/>
+            android:key="abc_hardware_keys_settings"
+            android:title="@string/hardware_keys_settings_title"
+            android:fragment="com.abc.settings.fragments.HardwareKeysSettings" />
 
         <PreferenceScreen
             android:key="abc_lockscreen_settings"
