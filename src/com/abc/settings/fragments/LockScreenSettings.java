@@ -47,3 +47,4 @@ public class LockScreenSettings extends SettingsPreferenceFragment implements
         return false;
     }
 } 
+
