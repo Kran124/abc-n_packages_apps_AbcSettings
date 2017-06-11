@@ -283,7 +283,6 @@
         <item>@string/action_value_select_app</item>
     </string-array>
 
-<<<<<<< HEAD:res/values/custom_arrays.xml
     <string-array name="systemui_navbar_mode_entries">
         <item>@string/smartbar_interface</item>
         <item>@string/fling_interface</item>
@@ -414,6 +413,7 @@
         <item>3</item>
         <item>4</item>
         <item>5</item>
+	</string-array>
 
     <!--- Buttons backlight timeout -->
     <string-array name="backlight_timeout_entries">
