@@ -542,5 +542,13 @@
 
     <!-- Enable keys backlight-->
     <string name="button_brightness_title">Включить подсветку</string>
+	
+	<!-- Smartbar longpress delay-->
+	<string name="smartbar_longpress_delay_title">Задержка долгого нажатия</string>
+    <string name="smartbar_longpress_delay_summary">Укажите, как долго система будет ждать, прежде чем реагировать на долгое нажатие</string>
+    <string name="smartbar_longpress_delay_default">Стандартная задержка (быстро)</string>
+    <string name="smartbar_longpress_delay_normal">Нормальная задержка</string>
+    <string name="smartbar_longpress_delay_long">Долгая задержка</string>
+
 
 </resources>
