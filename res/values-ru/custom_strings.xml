@@ -550,5 +550,7 @@
     <string name="smartbar_longpress_delay_normal">Нормальная задержка</string>
     <string name="smartbar_longpress_delay_long">Долгая задержка</string>
 
-
+    <!-- Backlight on touch-->
+	<string name="button_backlight_on_touch_only_title">Подсветка при касании</string>
+    <string name="button_backlight_on_touch_only_summary">Включать подсветку клавиш только после касания</string>
 </resources>
